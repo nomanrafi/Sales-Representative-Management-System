@@ -4,29 +4,18 @@ A powerful, intuitive dashboard designed to help sales teams track, analyze, and
 
 ## Screenshots
 
-| Homepage | Register |
-|:---:|:---:|
-| ![Homepage](Screenshots/homepage.png) | ![Register](Screenshots/register.png) |
-
-| Login | Dashboard |
-|:---:|:---:|
-| ![Login](Screenshots/login.png) | ![Dashboard](Screenshots/dashboard.png) |
-
-| Customers | Orders |
-|:---:|:---:|
-| ![Customers](Screenshots/customers.png) | ![Orders](Screenshots/orders.png) |
-
-| Product | Target |
-|:---:|:---:|
-| ![Product](Screenshots/product.png) | ![Target](Screenshots/target.png) |
-
-| Sales | Leaderboard |
-|:---:|:---:|
-| ![Sales](Screenshots/sales.png) | ![Leaderboard](Screenshots/leaderboard.png) |
-
-| User Management | Settings |
-|:---:|:---:|
-| ![User Management](Screenshots/user_management.png) | ![Settings](Screenshots/settings.png) |
+![Homepage](Screenshots/homepage.png)  
+![Register](Screenshots/register.png)  
+![Login](Screenshots/login.png)  
+![Dashboard](Screenshots/dashboard.png)  
+![Customers](Screenshots/customers.png)  
+![Orders](Screenshots/orders.png)  
+![Product](Screenshots/product.png)  
+![Target](Screenshots/target.png)  
+![Sales](Screenshots/sales.png)  
+![Leaderboard](Screenshots/leaderboard.png)  
+![User Management](Screenshots/user_management.png)  
+![Settings](Screenshots/settings.png)  
 
 ## 🚀 Key Features
 
