@@ -2,7 +2,33 @@
 
 A powerful, intuitive dashboard designed to help sales teams track, analyze, and improve their performance. This application provides real-time insights, team management capabilities, and geographic tracking to optimize sales operations.
 
-## 🚀 Key Features
+## � Screenshots
+
+| Homepage | Register |
+|:---:|:---:|
+| ![Homepage](Screenshots/homepage.png) | ![Register](Screenshots/register.png) |
+
+| Login | Dashboard |
+|:---:|:---:|
+| ![Login](Screenshots/login.png) | ![Dashboard](Screenshots/dashboard.png) |
+
+| Customers | Orders |
+|:---:|:---:|
+| ![Customers](Screenshots/customers.png) | ![Orders](Screenshots/orders.png) |
+
+| Product | Target |
+|:---:|:---:|
+| ![Product](Screenshots/product.png) | ![Target](Screenshots/target.png) |
+
+| Sales | Leaderboard |
+|:---:|:---:|
+| ![Sales](Screenshots/sales.png) | ![Leaderboard](Screenshots/leaderboard.png) |
+
+| User Management | Settings |
+|:---:|:---:|
+| ![User Management](Screenshots/user_management.png) | ![Settings](Screenshots/settings.png) |
+
+## �🚀 Key Features
 
 -   **Real-Time Dashboard**: Visual analytics for sales performance, growth rates, and active users.
 -   **Order Management**: Streamlined process for tracking and managing customer orders.
